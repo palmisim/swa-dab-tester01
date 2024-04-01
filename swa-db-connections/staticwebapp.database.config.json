@@ -2,7 +2,7 @@
   "$schema": "https://github.com/Azure/data-api-builder/releases/download/v0.10.23/dab.draft.schema.json",
   "data-source": {
     "database-type": "mssql",
-    "connection-string": "Server=midgardur.database.windows.net;Database=bikestore01;TrustServerCertificate=True;User ID=sqlnamskeid;Password=VeljaToflur2022!",
+    "connection-string": "Server=database.windows.net;Database=;TrustServerCertificate=True;User ID=;Password=",
     "options": {
       "set-session-context": false
     }
